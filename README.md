@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="250" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="600"src="https://github-profile-trophy.vercel.app/?username=kumarsachinnnn299" alt="kumarsachinnnn299" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="550"src="https://github-profile-trophy.vercel.app/?username=kumarsachinnnn299" alt="kumarsachinnnn299" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/the_sachinnnn" target="blank"><img src="https://img.shields.io/twitter/follow/the_sachinnnn?logo=twitter&style=for-the-badge" alt="the_sachinnnn" /></a> </p>
 
