@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sachin</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kumarsachinnnn299&label=Profile%20views&color=0e75b6&style=flat" alt="kumarsachinnnn299" /> </p>
 
 <img align="right" alt="Coding" width="250" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="600"src="https://github-profile-trophy.vercel.app/?username=kumarsachinnnn299" alt="kumarsachinnnn299" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="500"src="https://github-profile-trophy.vercel.app/?username=kumarsachinnnn299" alt="kumarsachinnnn299" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/the_sachinnnn" target="blank"><img src="https://img.shields.io/twitter/follow/the_sachinnnn?logo=twitter&style=for-the-badge" alt="the_sachinnnn" /></a> </p>
 
