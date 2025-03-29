@@ -9,19 +9,23 @@
 
 <p align="left"> <a href="https://twitter.com/the_sachinnnn" target="blank"><img src="https://img.shields.io/twitter/follow/the_sachinnnn?logo=twitter&style=for-the-badge" alt="the_sachinnnn" /></a> </p>
 
-- 🌱 I’m currently learning **full stack development using MERN**
+- 🔭 I’m currently working as a Backend Developer specializing in **Java and Spring Boot development**
 
-- 👯 I’m looking to collaborate on **MERN projects**
+- 🌱 I’m currently exploring **Liferay portals and Backend Development with Spring Boot focusing on Microservices**
 
-- 🤝 I’m looking for help with **MERN projects**
+- 👯 I’m looking to collaborate on **Java projects**
+
+- 📚 Strong foundation in **Data Structures and Algorithms**, with **1200+** problems solved
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/kumarsachinnnn299)
 
-- 💬 Ask me about **C++, Data Structures and Algorithms, Problem Solving, JavaScript, RDBMS and SQL**
+- 🤖 Touch-base knowledge of **ReactJS, Data Science, and Machine Learning** with hands-on experience in developing projects using **Python and Machine Learning**
 
-- 📫 How to reach me **singhsachinkumar5258@gmail.com**
+- 💬 Ask me about **Java, C++, Data Structures and Backend Development**
 
-- 📄 Know about my experiences [here](https://shorturl.at/gILPZ)
+- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/sachin-kumar-singh-2b1657166/)**
+ **[Email](singhsachinkumar5258@gmail.com)**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
