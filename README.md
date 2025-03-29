@@ -17,9 +17,9 @@
 
 - 📚 Strong foundation in **Data Structures and Algorithms**, with **1200+** problems solved
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/kumarsachinnnn299)
-
 - 🤖 Touch-base knowledge of **ReactJS, Data Science, and Machine Learning** with hands-on experience in developing projects using **Python and Machine Learning**
+
+- 👨‍💻 Passionate about creating **impactful projects and innovative solutions**
 
 - 💬 Ask me about **Java, C++, Data Structures and Backend Development**
 
